@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv1"
+    style="@style/tv_14sp"
+    android:layout_width="match_parent"
+    android:layout_height="34dp"
+    android:background="@drawable/dictionary_bg_selector"
+    android:ellipsize="end"
+    android:gravity="center"
+    android:maxEms="4"
+    android:singleLine="true"
+    android:text="公司分配"
+    android:textColor="@drawable/dictionary_tv_selector" >
+
+</TextView>
